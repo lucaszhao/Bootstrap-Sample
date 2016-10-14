@@ -1,0 +1,38 @@
+body{
+    postion : relative;
+}
+
+#image{
+    width: 100%;
+    height: auto;
+}
+
+#section1,#section2,#section3,#section41,#section42{
+    padding-top:50px;height:500px;color: #fff; background-color: #1E88E5;
+}
+#section2 {
+    background-color: #673ab7;
+}
+#section3 {
+    background-color: #ff9800;
+}
+#section41 {
+    background-color: #00bcd4;
+}
+#section42 {
+    background-color: #009688;
+}
+
+.navbar{
+    padding-top: 20px;
+    height:86px;
+    opacity: 0.9 ;
+}
+.navbar-brand{
+    font-size: 100px;
+    font-weight: bold;
+}
+.affix {
+    top: 0;
+    width: 100%;
+}
